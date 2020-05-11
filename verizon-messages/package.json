@@ -1,0 +1,13 @@
+{
+  "id": "verizon-messages",
+  "name": "Verizon Messages",
+  "version": "0.0.1",
+  "description": "Verizon Messages",
+  "main": "index.js",
+  "author": "Brandon H <brandon@bc3tech.net>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://web.vma.vzw.com/",
+    "hasNotificationSound": true
+  }
+}

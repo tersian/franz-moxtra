@@ -1,0 +1,13 @@
+{
+  "id": "moxtra",
+  "name": "Moxtra",
+  "version": "0.0.1",
+  "description": "Moxtra",
+  "main": "index.js",
+  "author": "Ben S <tersian@rocketmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.moxtra.com/service6/#login",
+    "hasNotificationSound": true
+  }
+}
